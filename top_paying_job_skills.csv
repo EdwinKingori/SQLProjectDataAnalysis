@@ -1,0 +1,582 @@
+job_id,job_title,job_location,salary_year_avg,company_name,skills,type
+552322,Associate Director- Data Insights,Anywhere,255829.5,AT&T,sql,programming
+552322,Associate Director- Data Insights,Anywhere,255829.5,AT&T,python,programming
+552322,Associate Director- Data Insights,Anywhere,255829.5,AT&T,r,programming
+552322,Associate Director- Data Insights,Anywhere,255829.5,AT&T,azure,cloud
+552322,Associate Director- Data Insights,Anywhere,255829.5,AT&T,databricks,cloud
+552322,Associate Director- Data Insights,Anywhere,255829.5,AT&T,aws,cloud
+552322,Associate Director- Data Insights,Anywhere,255829.5,AT&T,pandas,libraries
+552322,Associate Director- Data Insights,Anywhere,255829.5,AT&T,pyspark,libraries
+552322,Associate Director- Data Insights,Anywhere,255829.5,AT&T,jupyter,libraries
+552322,Associate Director- Data Insights,Anywhere,255829.5,AT&T,excel,analyst_tools
+552322,Associate Director- Data Insights,Anywhere,255829.5,AT&T,tableau,analyst_tools
+552322,Associate Director- Data Insights,Anywhere,255829.5,AT&T,power bi,analyst_tools
+552322,Associate Director- Data Insights,Anywhere,255829.5,AT&T,powerpoint,analyst_tools
+99305,"Data Analyst, Marketing",Anywhere,232423,Pinterest Job Advertisements,sql,programming
+99305,"Data Analyst, Marketing",Anywhere,232423,Pinterest Job Advertisements,python,programming
+99305,"Data Analyst, Marketing",Anywhere,232423,Pinterest Job Advertisements,r,programming
+99305,"Data Analyst, Marketing",Anywhere,232423,Pinterest Job Advertisements,hadoop,libraries
+99305,"Data Analyst, Marketing",Anywhere,232423,Pinterest Job Advertisements,tableau,analyst_tools
+562251,Senior Software Engineer,Anywhere,225000,Datavant,python,programming
+562251,Senior Software Engineer,Anywhere,225000,Datavant,javascript,programming
+562251,Senior Software Engineer,Anywhere,225000,Datavant,typescript,programming
+562251,Senior Software Engineer,Anywhere,225000,Datavant,azure,cloud
+562251,Senior Software Engineer,Anywhere,225000,Datavant,aws,cloud
+562251,Senior Software Engineer,Anywhere,225000,Datavant,snowflake,cloud
+562251,Senior Software Engineer,Anywhere,225000,Datavant,spark,libraries
+562251,Senior Software Engineer,Anywhere,225000,Datavant,react,libraries
+1021647,Data Analyst (Hybrid/Remote),Anywhere,217000,Uclahealthcareers,sql,programming
+1021647,Data Analyst (Hybrid/Remote),Anywhere,217000,Uclahealthcareers,crystal,programming
+1021647,Data Analyst (Hybrid/Remote),Anywhere,217000,Uclahealthcareers,oracle,cloud
+1021647,Data Analyst (Hybrid/Remote),Anywhere,217000,Uclahealthcareers,tableau,analyst_tools
+1021647,Data Analyst (Hybrid/Remote),Anywhere,217000,Uclahealthcareers,flow,other
+365528,Engineering,Anywhere,205000,Huckleberry Labs,python,programming
+365528,Engineering,Anywhere,205000,Huckleberry Labs,aws,cloud
+365528,Engineering,Anywhere,205000,Huckleberry Labs,gcp,cloud
+168310,Principal Data Analyst (Remote),Anywhere,205000,SmartAsset,sql,programming
+168310,Principal Data Analyst (Remote),Anywhere,205000,SmartAsset,python,programming
+168310,Principal Data Analyst (Remote),Anywhere,205000,SmartAsset,go,programming
+168310,Principal Data Analyst (Remote),Anywhere,205000,SmartAsset,snowflake,cloud
+168310,Principal Data Analyst (Remote),Anywhere,205000,SmartAsset,pandas,libraries
+168310,Principal Data Analyst (Remote),Anywhere,205000,SmartAsset,numpy,libraries
+168310,Principal Data Analyst (Remote),Anywhere,205000,SmartAsset,excel,analyst_tools
+168310,Principal Data Analyst (Remote),Anywhere,205000,SmartAsset,tableau,analyst_tools
+168310,Principal Data Analyst (Remote),Anywhere,205000,SmartAsset,gitlab,other
+1356375,"Senior Software Engineer, Full Stack",Anywhere,205000,SmarterDx,python,programming
+1356375,"Senior Software Engineer, Full Stack",Anywhere,205000,SmarterDx,elasticsearch,databases
+1356375,"Senior Software Engineer, Full Stack",Anywhere,205000,SmarterDx,dynamodb,databases
+1356375,"Senior Software Engineer, Full Stack",Anywhere,205000,SmarterDx,aws,cloud
+1356375,"Senior Software Engineer, Full Stack",Anywhere,205000,SmarterDx,snowflake,cloud
+1356375,"Senior Software Engineer, Full Stack",Anywhere,205000,SmarterDx,pandas,libraries
+1356375,"Senior Software Engineer, Full Stack",Anywhere,205000,SmarterDx,airflow,libraries
+1356375,"Senior Software Engineer, Full Stack",Anywhere,205000,SmarterDx,react,libraries
+1356375,"Senior Software Engineer, Full Stack",Anywhere,205000,SmarterDx,graphql,libraries
+1356375,"Senior Software Engineer, Full Stack",Anywhere,205000,SmarterDx,node.js,webframeworks
+1231528,"Senior Software Engineer, Server Security",Anywhere,200000,MongoDB,mongodb,programming
+1231528,"Senior Software Engineer, Server Security",Anywhere,200000,MongoDB,mongodb,databases
+1398776,"Senior Software Engineer, Cluster Scalability",Anywhere,200000,MongoDB,mongodb,programming
+1398776,"Senior Software Engineer, Cluster Scalability",Anywhere,200000,MongoDB,mongodb,databases
+64759,Senior Ruby Engineer - Analytics Platform - $190-210k+,Anywhere,200000,Orbis,typescript,programming
+64759,Senior Ruby Engineer - Analytics Platform - $190-210k+,Anywhere,200000,Orbis,ruby,programming
+64759,Senior Ruby Engineer - Analytics Platform - $190-210k+,Anywhere,200000,Orbis,ruby,webframeworks
+946351,Staff Frontend Engineer,Anywhere,191000,Webflow,javascript,programming
+946351,Staff Frontend Engineer,Anywhere,191000,Webflow,css,programming
+946351,Staff Frontend Engineer,Anywhere,191000,Webflow,react,libraries
+946351,Staff Frontend Engineer,Anywhere,191000,Webflow,graphql,libraries
+946351,Staff Frontend Engineer,Anywhere,191000,Webflow,node.js,webframeworks
+946351,Staff Frontend Engineer,Anywhere,191000,Webflow,react.js,webframeworks
+731368,"Director, Data Analyst - HYBRID",Anywhere,189309,Inclusively,sql,programming
+731368,"Director, Data Analyst - HYBRID",Anywhere,189309,Inclusively,python,programming
+731368,"Director, Data Analyst - HYBRID",Anywhere,189309,Inclusively,azure,cloud
+731368,"Director, Data Analyst - HYBRID",Anywhere,189309,Inclusively,aws,cloud
+731368,"Director, Data Analyst - HYBRID",Anywhere,189309,Inclusively,oracle,cloud
+731368,"Director, Data Analyst - HYBRID",Anywhere,189309,Inclusively,snowflake,cloud
+731368,"Director, Data Analyst - HYBRID",Anywhere,189309,Inclusively,tableau,analyst_tools
+731368,"Director, Data Analyst - HYBRID",Anywhere,189309,Inclusively,power bi,analyst_tools
+731368,"Director, Data Analyst - HYBRID",Anywhere,189309,Inclusively,sap,analyst_tools
+731368,"Director, Data Analyst - HYBRID",Anywhere,189309,Inclusively,jenkins,other
+731368,"Director, Data Analyst - HYBRID",Anywhere,189309,Inclusively,bitbucket,other
+731368,"Director, Data Analyst - HYBRID",Anywhere,189309,Inclusively,atlassian,other
+731368,"Director, Data Analyst - HYBRID",Anywhere,189309,Inclusively,jira,async
+731368,"Director, Data Analyst - HYBRID",Anywhere,189309,Inclusively,confluence,async
+310660,"Principal Data Analyst, AV Performance Analysis",Anywhere,189000,Motional,sql,programming
+310660,"Principal Data Analyst, AV Performance Analysis",Anywhere,189000,Motional,python,programming
+310660,"Principal Data Analyst, AV Performance Analysis",Anywhere,189000,Motional,r,programming
+310660,"Principal Data Analyst, AV Performance Analysis",Anywhere,189000,Motional,git,other
+310660,"Principal Data Analyst, AV Performance Analysis",Anywhere,189000,Motional,bitbucket,other
+310660,"Principal Data Analyst, AV Performance Analysis",Anywhere,189000,Motional,atlassian,other
+310660,"Principal Data Analyst, AV Performance Analysis",Anywhere,189000,Motional,jira,async
+310660,"Principal Data Analyst, AV Performance Analysis",Anywhere,189000,Motional,confluence,async
+1749593,Principal Data Analyst,Anywhere,186000,SmartAsset,sql,programming
+1749593,Principal Data Analyst,Anywhere,186000,SmartAsset,python,programming
+1749593,Principal Data Analyst,Anywhere,186000,SmartAsset,go,programming
+1749593,Principal Data Analyst,Anywhere,186000,SmartAsset,snowflake,cloud
+1749593,Principal Data Analyst,Anywhere,186000,SmartAsset,pandas,libraries
+1749593,Principal Data Analyst,Anywhere,186000,SmartAsset,numpy,libraries
+1749593,Principal Data Analyst,Anywhere,186000,SmartAsset,excel,analyst_tools
+1749593,Principal Data Analyst,Anywhere,186000,SmartAsset,tableau,analyst_tools
+1749593,Principal Data Analyst,Anywhere,186000,SmartAsset,gitlab,other
+1054268,"Staff Software Engineer, AI",Anywhere,185000,Pulley,python,programming
+1054268,"Staff Software Engineer, AI",Anywhere,185000,Pulley,javascript,programming
+1054268,"Staff Software Engineer, AI",Anywhere,185000,Pulley,typescript,programming
+1054268,"Staff Software Engineer, AI",Anywhere,185000,Pulley,golang,programming
+182858,Senior Software Engineer (Confirmations - System),Anywhere,184500,ConsenSys,javascript,programming
+182858,Senior Software Engineer (Confirmations - System),Anywhere,184500,ConsenSys,typescript,programming
+182858,Senior Software Engineer (Confirmations - System),Anywhere,184500,ConsenSys,react,libraries
+387860,ERM Data Analyst,Anywhere,184000,Get It Recruit - Information Technology,sql,programming
+387860,ERM Data Analyst,Anywhere,184000,Get It Recruit - Information Technology,python,programming
+387860,ERM Data Analyst,Anywhere,184000,Get It Recruit - Information Technology,r,programming
+117409,Director of Software Engineer,Anywhere,182500,Robert Half,python,programming
+117409,Director of Software Engineer,Anywhere,182500,Robert Half,javascript,programming
+117409,Director of Software Engineer,Anywhere,182500,Robert Half,html,programming
+117409,Director of Software Engineer,Anywhere,182500,Robert Half,css,programming
+117409,Director of Software Engineer,Anywhere,182500,Robert Half,c#,programming
+117409,Director of Software Engineer,Anywhere,182500,Robert Half,mongodb,programming
+117409,Director of Software Engineer,Anywhere,182500,Robert Half,redis,databases
+117409,Director of Software Engineer,Anywhere,182500,Robert Half,mysql,databases
+117409,Director of Software Engineer,Anywhere,182500,Robert Half,elasticsearch,databases
+117409,Director of Software Engineer,Anywhere,182500,Robert Half,mongodb,databases
+117409,Director of Software Engineer,Anywhere,182500,Robert Half,dynamodb,databases
+117409,Director of Software Engineer,Anywhere,182500,Robert Half,couchbase,databases
+117409,Director of Software Engineer,Anywhere,182500,Robert Half,azure,cloud
+117409,Director of Software Engineer,Anywhere,182500,Robert Half,aws,cloud
+117409,Director of Software Engineer,Anywhere,182500,Robert Half,asp.net,webframeworks
+40870,"Senior Software Engineer, Query",Anywhere,174500,MongoDB,c++,programming
+40870,"Senior Software Engineer, Query",Anywhere,174500,MongoDB,mongodb,programming
+40870,"Senior Software Engineer, Query",Anywhere,174500,MongoDB,c,programming
+40870,"Senior Software Engineer, Query",Anywhere,174500,MongoDB,rust,programming
+40870,"Senior Software Engineer, Query",Anywhere,174500,MongoDB,mongodb,databases
+1352513,REMOTE Director of Data Analytics,Anywhere,170000,A-Line Staffing Solutions,sql,programming
+1352513,REMOTE Director of Data Analytics,Anywhere,170000,A-Line Staffing Solutions,python,programming
+1352513,REMOTE Director of Data Analytics,Anywhere,170000,A-Line Staffing Solutions,azure,cloud
+1781684,DTCC Data Analyst,Anywhere,170000,Robert Half,java,programming
+1781684,DTCC Data Analyst,Anywhere,170000,Robert Half,go,programming
+1781684,DTCC Data Analyst,Anywhere,170000,Robert Half,excel,analyst_tools
+987523,Azure Data Python Consultant - contract to HIRE - Citizen or Perm...,Anywhere,170000,"Kelly Science, Engineering, Technology & Telecom",sql,programming
+987523,Azure Data Python Consultant - contract to HIRE - Citizen or Perm...,Anywhere,170000,"Kelly Science, Engineering, Technology & Telecom",python,programming
+987523,Azure Data Python Consultant - contract to HIRE - Citizen or Perm...,Anywhere,170000,"Kelly Science, Engineering, Technology & Telecom",azure,cloud
+987523,Azure Data Python Consultant - contract to HIRE - Citizen or Perm...,Anywhere,170000,"Kelly Science, Engineering, Technology & Telecom",databricks,cloud
+987523,Azure Data Python Consultant - contract to HIRE - Citizen or Perm...,Anywhere,170000,"Kelly Science, Engineering, Technology & Telecom",power bi,analyst_tools
+176192,Lead Software Engineer,Anywhere,167500,Harnham,typescript,programming
+176192,Lead Software Engineer,Anywhere,167500,Harnham,ruby,programming
+176192,Lead Software Engineer,Anywhere,167500,Harnham,redis,databases
+176192,Lead Software Engineer,Anywhere,167500,Harnham,ruby,webframeworks
+176192,Lead Software Engineer,Anywhere,167500,Harnham,kubernetes,other
+1525451,"Manager, Data Analyst",Anywhere,167000,Uber,sql,programming
+1525451,"Manager, Data Analyst",Anywhere,167000,Uber,python,programming
+1525451,"Manager, Data Analyst",Anywhere,167000,Uber,r,programming
+1525451,"Manager, Data Analyst",Anywhere,167000,Uber,swift,programming
+1525451,"Manager, Data Analyst",Anywhere,167000,Uber,excel,analyst_tools
+1525451,"Manager, Data Analyst",Anywhere,167000,Uber,tableau,analyst_tools
+1525451,"Manager, Data Analyst",Anywhere,167000,Uber,looker,analyst_tools
+1246069,Data Analyst,Anywhere,165000,Plexus Resource Solutions,python,programming
+1246069,Data Analyst,Anywhere,165000,Plexus Resource Solutions,mysql,databases
+1246069,Data Analyst,Anywhere,165000,Plexus Resource Solutions,aws,cloud
+712473,Data Analyst,Anywhere,165000,Get It Recruit - Information Technology,sql,programming
+712473,Data Analyst,Anywhere,165000,Get It Recruit - Information Technology,python,programming
+712473,Data Analyst,Anywhere,165000,Get It Recruit - Information Technology,r,programming
+712473,Data Analyst,Anywhere,165000,Get It Recruit - Information Technology,sas,programming
+712473,Data Analyst,Anywhere,165000,Get It Recruit - Information Technology,matlab,programming
+712473,Data Analyst,Anywhere,165000,Get It Recruit - Information Technology,pandas,libraries
+712473,Data Analyst,Anywhere,165000,Get It Recruit - Information Technology,tableau,analyst_tools
+712473,Data Analyst,Anywhere,165000,Get It Recruit - Information Technology,looker,analyst_tools
+712473,Data Analyst,Anywhere,165000,Get It Recruit - Information Technology,sas,analyst_tools
+178098,Principal Software/Data Engineer (Remote),Anywhere,164500,Liberty Mutual Insurance,sql,programming
+178098,Principal Software/Data Engineer (Remote),Anywhere,164500,Liberty Mutual Insurance,python,programming
+178098,Principal Software/Data Engineer (Remote),Anywhere,164500,Liberty Mutual Insurance,java,programming
+178098,Principal Software/Data Engineer (Remote),Anywhere,164500,Liberty Mutual Insurance,dynamodb,databases
+178098,Principal Software/Data Engineer (Remote),Anywhere,164500,Liberty Mutual Insurance,aws,cloud
+178098,Principal Software/Data Engineer (Remote),Anywhere,164500,Liberty Mutual Insurance,aurora,cloud
+618890,Principal Data Intelligence Analyst - Cardiac - Remote,Anywhere,163500,CEDARS-SINAI,sas,programming
+618890,Principal Data Intelligence Analyst - Cardiac - Remote,Anywhere,163500,CEDARS-SINAI,go,programming
+618890,Principal Data Intelligence Analyst - Cardiac - Remote,Anywhere,163500,CEDARS-SINAI,crystal,programming
+618890,Principal Data Intelligence Analyst - Cardiac - Remote,Anywhere,163500,CEDARS-SINAI,tableau,analyst_tools
+618890,Principal Data Intelligence Analyst - Cardiac - Remote,Anywhere,163500,CEDARS-SINAI,sas,analyst_tools
+623792,Senior Backend Engineer,Anywhere,161000,Vareto,sql,programming
+623792,Senior Backend Engineer,Anywhere,161000,Vareto,python,programming
+623792,Senior Backend Engineer,Anywhere,161000,Vareto,postgresql,databases
+623792,Senior Backend Engineer,Anywhere,161000,Vareto,aurora,cloud
+623792,Senior Backend Engineer,Anywhere,161000,Vareto,pandas,libraries
+623792,Senior Backend Engineer,Anywhere,161000,Vareto,airflow,libraries
+623792,Senior Backend Engineer,Anywhere,161000,Vareto,excel,analyst_tools
+918213,Senior - Data Analyst,Anywhere,160515,DIRECTV,sql,programming
+918213,Senior - Data Analyst,Anywhere,160515,DIRECTV,python,programming
+918213,Senior - Data Analyst,Anywhere,160515,DIRECTV,scala,programming
+918213,Senior - Data Analyst,Anywhere,160515,DIRECTV,r,programming
+918213,Senior - Data Analyst,Anywhere,160515,DIRECTV,mysql,databases
+918213,Senior - Data Analyst,Anywhere,160515,DIRECTV,postgresql,databases
+918213,Senior - Data Analyst,Anywhere,160515,DIRECTV,couchbase,databases
+918213,Senior - Data Analyst,Anywhere,160515,DIRECTV,azure,cloud
+918213,Senior - Data Analyst,Anywhere,160515,DIRECTV,databricks,cloud
+918213,Senior - Data Analyst,Anywhere,160515,DIRECTV,aws,cloud
+918213,Senior - Data Analyst,Anywhere,160515,DIRECTV,redshift,cloud
+918213,Senior - Data Analyst,Anywhere,160515,DIRECTV,oracle,cloud
+918213,Senior - Data Analyst,Anywhere,160515,DIRECTV,snowflake,cloud
+918213,Senior - Data Analyst,Anywhere,160515,DIRECTV,watson,cloud
+918213,Senior - Data Analyst,Anywhere,160515,DIRECTV,pyspark,libraries
+918213,Senior - Data Analyst,Anywhere,160515,DIRECTV,airflow,libraries
+918213,Senior - Data Analyst,Anywhere,160515,DIRECTV,linux,os
+918213,Senior - Data Analyst,Anywhere,160515,DIRECTV,tableau,analyst_tools
+918213,Senior - Data Analyst,Anywhere,160515,DIRECTV,ssis,analyst_tools
+918213,Senior - Data Analyst,Anywhere,160515,DIRECTV,cognos,analyst_tools
+918213,Senior - Data Analyst,Anywhere,160515,DIRECTV,visio,analyst_tools
+475626,Principal Data Analyst,Anywhere,160000,Realtime Recruitment,snowflake,cloud
+475626,Principal Data Analyst,Anywhere,160000,Realtime Recruitment,power bi,analyst_tools
+475626,Principal Data Analyst,Anywhere,160000,Realtime Recruitment,looker,analyst_tools
+783771,SQL DEVELOPER / DATA ANALYST (Insurance industry Experience) ...,Anywhere,160000,Robert Half,sql,programming
+783771,SQL DEVELOPER / DATA ANALYST (Insurance industry Experience) ...,Anywhere,160000,Robert Half,java,programming
+182813,Principal Data Analyst,Anywhere,160000,Get It Recruit - Information Technology,sql,programming
+182813,Principal Data Analyst,Anywhere,160000,Get It Recruit - Information Technology,python,programming
+182813,Principal Data Analyst,Anywhere,160000,Get It Recruit - Information Technology,r,programming
+182813,Principal Data Analyst,Anywhere,160000,Get It Recruit - Information Technology,sas,programming
+182813,Principal Data Analyst,Anywhere,160000,Get It Recruit - Information Technology,sql server,databases
+182813,Principal Data Analyst,Anywhere,160000,Get It Recruit - Information Technology,azure,cloud
+182813,Principal Data Analyst,Anywhere,160000,Get It Recruit - Information Technology,power bi,analyst_tools
+182813,Principal Data Analyst,Anywhere,160000,Get It Recruit - Information Technology,sas,analyst_tools
+182813,Principal Data Analyst,Anywhere,160000,Get It Recruit - Information Technology,ssrs,analyst_tools
+309010,Senior Software Engineer - Data Systems - Remote,Anywhere,157500,Voltus,sql,programming
+309010,Senior Software Engineer - Data Systems - Remote,Anywhere,157500,Voltus,python,programming
+309010,Senior Software Engineer - Data Systems - Remote,Anywhere,157500,Voltus,go,programming
+309010,Senior Software Engineer - Data Systems - Remote,Anywhere,157500,Voltus,ruby,programming
+309010,Senior Software Engineer - Data Systems - Remote,Anywhere,157500,Voltus,rust,programming
+309010,Senior Software Engineer - Data Systems - Remote,Anywhere,157500,Voltus,kafka,libraries
+309010,Senior Software Engineer - Data Systems - Remote,Anywhere,157500,Voltus,ruby,webframeworks
+485388,System Data Analyst,Anywhere,157500,"Edgewater Federal Solutions, Inc.",sql,programming
+485388,System Data Analyst,Anywhere,157500,"Edgewater Federal Solutions, Inc.",go,programming
+485388,System Data Analyst,Anywhere,157500,"Edgewater Federal Solutions, Inc.",oracle,cloud
+266799,Applied Scientist - Maps,Anywhere,157500,Uber,sql,programming
+266799,Applied Scientist - Maps,Anywhere,157500,Uber,python,programming
+266799,Applied Scientist - Maps,Anywhere,157500,Uber,r,programming
+266799,Applied Scientist - Maps,Anywhere,157500,Uber,spark,libraries
+25761,Data Analyst - Remote,Anywhere,155485.5,CaptivateIQ,sql,programming
+25761,Data Analyst - Remote,Anywhere,155485.5,CaptivateIQ,python,programming
+25761,Data Analyst - Remote,Anywhere,155485.5,CaptivateIQ,r,programming
+25761,Data Analyst - Remote,Anywhere,155485.5,CaptivateIQ,tableau,analyst_tools
+25761,Data Analyst - Remote,Anywhere,155485.5,CaptivateIQ,looker,analyst_tools
+25761,Data Analyst - Remote,Anywhere,155485.5,CaptivateIQ,datarobot,analyst_tools
+417162,Software Engineer - Data Engineering/Enterprise Application Platforms,Anywhere,155000,Cisco,sql,programming
+417162,Software Engineer - Data Engineering/Enterprise Application Platforms,Anywhere,155000,Cisco,python,programming
+417162,Software Engineer - Data Engineering/Enterprise Application Platforms,Anywhere,155000,Cisco,java,programming
+417162,Software Engineer - Data Engineering/Enterprise Application Platforms,Anywhere,155000,Cisco,shell,programming
+417162,Software Engineer - Data Engineering/Enterprise Application Platforms,Anywhere,155000,Cisco,javascript,programming
+417162,Software Engineer - Data Engineering/Enterprise Application Platforms,Anywhere,155000,Cisco,html,programming
+417162,Software Engineer - Data Engineering/Enterprise Application Platforms,Anywhere,155000,Cisco,css,programming
+417162,Software Engineer - Data Engineering/Enterprise Application Platforms,Anywhere,155000,Cisco,mongo,programming
+417162,Software Engineer - Data Engineering/Enterprise Application Platforms,Anywhere,155000,Cisco,golang,programming
+417162,Software Engineer - Data Engineering/Enterprise Application Platforms,Anywhere,155000,Cisco,neo4j,databases
+417162,Software Engineer - Data Engineering/Enterprise Application Platforms,Anywhere,155000,Cisco,elasticsearch,databases
+417162,Software Engineer - Data Engineering/Enterprise Application Platforms,Anywhere,155000,Cisco,sql server,databases
+417162,Software Engineer - Data Engineering/Enterprise Application Platforms,Anywhere,155000,Cisco,azure,cloud
+417162,Software Engineer - Data Engineering/Enterprise Application Platforms,Anywhere,155000,Cisco,aws,cloud
+417162,Software Engineer - Data Engineering/Enterprise Application Platforms,Anywhere,155000,Cisco,oracle,cloud
+417162,Software Engineer - Data Engineering/Enterprise Application Platforms,Anywhere,155000,Cisco,snowflake,cloud
+417162,Software Engineer - Data Engineering/Enterprise Application Platforms,Anywhere,155000,Cisco,gcp,cloud
+417162,Software Engineer - Data Engineering/Enterprise Application Platforms,Anywhere,155000,Cisco,kafka,libraries
+417162,Software Engineer - Data Engineering/Enterprise Application Platforms,Anywhere,155000,Cisco,angular,webframeworks
+417162,Software Engineer - Data Engineering/Enterprise Application Platforms,Anywhere,155000,Cisco,jquery,webframeworks
+417162,Software Engineer - Data Engineering/Enterprise Application Platforms,Anywhere,155000,Cisco,linux,os
+417162,Software Engineer - Data Engineering/Enterprise Application Platforms,Anywhere,155000,Cisco,jenkins,other
+417162,Software Engineer - Data Engineering/Enterprise Application Platforms,Anywhere,155000,Cisco,github,other
+417162,Software Engineer - Data Engineering/Enterprise Application Platforms,Anywhere,155000,Cisco,ansible,other
+682763,Senior Software Engineer (Data Science Enablement),Anywhere,155000,Shelf Engine,sql,programming
+682763,Senior Software Engineer (Data Science Enablement),Anywhere,155000,Shelf Engine,python,programming
+682763,Senior Software Engineer (Data Science Enablement),Anywhere,155000,Shelf Engine,c#,programming
+682763,Senior Software Engineer (Data Science Enablement),Anywhere,155000,Shelf Engine,sql server,databases
+682763,Senior Software Engineer (Data Science Enablement),Anywhere,155000,Shelf Engine,azure,cloud
+682763,Senior Software Engineer (Data Science Enablement),Anywhere,155000,Shelf Engine,snowflake,cloud
+682763,Senior Software Engineer (Data Science Enablement),Anywhere,155000,Shelf Engine,airflow,libraries
+682763,Senior Software Engineer (Data Science Enablement),Anywhere,155000,Shelf Engine,asp.net,webframeworks
+682763,Senior Software Engineer (Data Science Enablement),Anywhere,155000,Shelf Engine,asp.net core,webframeworks
+682763,Senior Software Engineer (Data Science Enablement),Anywhere,155000,Shelf Engine,kubernetes,other
+105157,Lead Data Analyst,Anywhere,155000,Motion Recruitment,sql,programming
+105157,Lead Data Analyst,Anywhere,155000,Motion Recruitment,python,programming
+105157,Lead Data Analyst,Anywhere,155000,Motion Recruitment,scala,programming
+105157,Lead Data Analyst,Anywhere,155000,Motion Recruitment,java,programming
+105157,Lead Data Analyst,Anywhere,155000,Motion Recruitment,c++,programming
+105157,Lead Data Analyst,Anywhere,155000,Motion Recruitment,redshift,cloud
+105157,Lead Data Analyst,Anywhere,155000,Motion Recruitment,snowflake,cloud
+105157,Lead Data Analyst,Anywhere,155000,Motion Recruitment,spark,libraries
+105157,Lead Data Analyst,Anywhere,155000,Motion Recruitment,airflow,libraries
+105157,Lead Data Analyst,Anywhere,155000,Motion Recruitment,hadoop,libraries
+105157,Lead Data Analyst,Anywhere,155000,Motion Recruitment,tableau,analyst_tools
+84917,Software Engineer - Data Engineering/Enterprise App Platforms,Anywhere,155000,Cisco,sql,programming
+84917,Software Engineer - Data Engineering/Enterprise App Platforms,Anywhere,155000,Cisco,python,programming
+84917,Software Engineer - Data Engineering/Enterprise App Platforms,Anywhere,155000,Cisco,java,programming
+84917,Software Engineer - Data Engineering/Enterprise App Platforms,Anywhere,155000,Cisco,shell,programming
+84917,Software Engineer - Data Engineering/Enterprise App Platforms,Anywhere,155000,Cisco,javascript,programming
+84917,Software Engineer - Data Engineering/Enterprise App Platforms,Anywhere,155000,Cisco,html,programming
+84917,Software Engineer - Data Engineering/Enterprise App Platforms,Anywhere,155000,Cisco,css,programming
+84917,Software Engineer - Data Engineering/Enterprise App Platforms,Anywhere,155000,Cisco,mongo,programming
+84917,Software Engineer - Data Engineering/Enterprise App Platforms,Anywhere,155000,Cisco,golang,programming
+84917,Software Engineer - Data Engineering/Enterprise App Platforms,Anywhere,155000,Cisco,neo4j,databases
+84917,Software Engineer - Data Engineering/Enterprise App Platforms,Anywhere,155000,Cisco,elasticsearch,databases
+84917,Software Engineer - Data Engineering/Enterprise App Platforms,Anywhere,155000,Cisco,sql server,databases
+84917,Software Engineer - Data Engineering/Enterprise App Platforms,Anywhere,155000,Cisco,azure,cloud
+84917,Software Engineer - Data Engineering/Enterprise App Platforms,Anywhere,155000,Cisco,aws,cloud
+84917,Software Engineer - Data Engineering/Enterprise App Platforms,Anywhere,155000,Cisco,oracle,cloud
+84917,Software Engineer - Data Engineering/Enterprise App Platforms,Anywhere,155000,Cisco,snowflake,cloud
+84917,Software Engineer - Data Engineering/Enterprise App Platforms,Anywhere,155000,Cisco,gcp,cloud
+84917,Software Engineer - Data Engineering/Enterprise App Platforms,Anywhere,155000,Cisco,kafka,libraries
+84917,Software Engineer - Data Engineering/Enterprise App Platforms,Anywhere,155000,Cisco,angular,webframeworks
+84917,Software Engineer - Data Engineering/Enterprise App Platforms,Anywhere,155000,Cisco,jquery,webframeworks
+84917,Software Engineer - Data Engineering/Enterprise App Platforms,Anywhere,155000,Cisco,linux,os
+84917,Software Engineer - Data Engineering/Enterprise App Platforms,Anywhere,155000,Cisco,jenkins,other
+84917,Software Engineer - Data Engineering/Enterprise App Platforms,Anywhere,155000,Cisco,github,other
+84917,Software Engineer - Data Engineering/Enterprise App Platforms,Anywhere,155000,Cisco,ansible,other
+565646,Staff Business Data Analyst (Remote U.S. OK),Anywhere,152625,Zscaler,sql,programming
+565646,Staff Business Data Analyst (Remote U.S. OK),Anywhere,152625,Zscaler,hadoop,libraries
+565646,Staff Business Data Analyst (Remote U.S. OK),Anywhere,152625,Zscaler,excel,analyst_tools
+565646,Staff Business Data Analyst (Remote U.S. OK),Anywhere,152625,Zscaler,tableau,analyst_tools
+565646,Staff Business Data Analyst (Remote U.S. OK),Anywhere,152625,Zscaler,looker,analyst_tools
+795614,Staff Business Data Analyst (Remote U.S. OK),Anywhere,152625,Zscaler,sql,programming
+795614,Staff Business Data Analyst (Remote U.S. OK),Anywhere,152625,Zscaler,hadoop,libraries
+795614,Staff Business Data Analyst (Remote U.S. OK),Anywhere,152625,Zscaler,excel,analyst_tools
+795614,Staff Business Data Analyst (Remote U.S. OK),Anywhere,152625,Zscaler,tableau,analyst_tools
+795614,Staff Business Data Analyst (Remote U.S. OK),Anywhere,152625,Zscaler,looker,analyst_tools
+540057,"Lead Data Analyst, Growth (Remote)",Anywhere,152500,Rocket Money,sql,programming
+540057,"Lead Data Analyst, Growth (Remote)",Anywhere,152500,Rocket Money,looker,analyst_tools
+72957,Management & Program Analyst (Data Analytics),Anywhere,152221.5,US Patent and Trademark Office,sql,programming
+72957,Management & Program Analyst (Data Analytics),Anywhere,152221.5,US Patent and Trademark Office,r,programming
+72957,Management & Program Analyst (Data Analytics),Anywhere,152221.5,US Patent and Trademark Office,go,programming
+72957,Management & Program Analyst (Data Analytics),Anywhere,152221.5,US Patent and Trademark Office,databricks,cloud
+72957,Management & Program Analyst (Data Analytics),Anywhere,152221.5,US Patent and Trademark Office,tableau,analyst_tools
+72957,Management & Program Analyst (Data Analytics),Anywhere,152221.5,US Patent and Trademark Office,alteryx,analyst_tools
+456042,Data Analyst,Anywhere,151500,Get It Recruit - Healthcare,sql,programming
+456042,Data Analyst,Anywhere,151500,Get It Recruit - Healthcare,python,programming
+456042,Data Analyst,Anywhere,151500,Get It Recruit - Healthcare,r,programming
+73304,Mid-Level Data Analyst,Anywhere,150000,Patterned Learning AI,sql,programming
+73304,Mid-Level Data Analyst,Anywhere,150000,Patterned Learning AI,excel,analyst_tools
+73304,Mid-Level Data Analyst,Anywhere,150000,Patterned Learning AI,tableau,analyst_tools
+73304,Mid-Level Data Analyst,Anywhere,150000,Patterned Learning AI,sheets,analyst_tools
+384267,"Software Engineer, Infrastructure",Anywhere,150000,Secoda,python,programming
+384267,"Software Engineer, Infrastructure",Anywhere,150000,Secoda,typescript,programming
+384267,"Software Engineer, Infrastructure",Anywhere,150000,Secoda,aws,cloud
+384267,"Software Engineer, Infrastructure",Anywhere,150000,Secoda,bigquery,cloud
+384267,"Software Engineer, Infrastructure",Anywhere,150000,Secoda,snowflake,cloud
+384267,"Software Engineer, Infrastructure",Anywhere,150000,Secoda,react,libraries
+384267,"Software Engineer, Infrastructure",Anywhere,150000,Secoda,django,webframeworks
+384267,"Software Engineer, Infrastructure",Anywhere,150000,Secoda,linux,os
+384267,"Software Engineer, Infrastructure",Anywhere,150000,Secoda,tableau,analyst_tools
+384267,"Software Engineer, Infrastructure",Anywhere,150000,Secoda,looker,analyst_tools
+384267,"Software Engineer, Infrastructure",Anywhere,150000,Secoda,kubernetes,other
+384267,"Software Engineer, Infrastructure",Anywhere,150000,Secoda,docker,other
+591850,Mid-Level Data BI Analyst,Anywhere,150000,Patterned Learning AI,sql,programming
+591850,Mid-Level Data BI Analyst,Anywhere,150000,Patterned Learning AI,nosql,programming
+591850,Mid-Level Data BI Analyst,Anywhere,150000,Patterned Learning AI,vba,programming
+591850,Mid-Level Data BI Analyst,Anywhere,150000,Patterned Learning AI,oracle,cloud
+591850,Mid-Level Data BI Analyst,Anywhere,150000,Patterned Learning AI,hadoop,libraries
+591850,Mid-Level Data BI Analyst,Anywhere,150000,Patterned Learning AI,excel,analyst_tools
+591850,Mid-Level Data BI Analyst,Anywhere,150000,Patterned Learning AI,tableau,analyst_tools
+1254612,Product Analyst,Anywhere,150000,TipTop,sql,programming
+1254612,Product Analyst,Anywhere,150000,TipTop,python,programming
+1254612,Product Analyst,Anywhere,150000,TipTop,bigquery,cloud
+1254612,Product Analyst,Anywhere,150000,TipTop,react,libraries
+1254612,Product Analyst,Anywhere,150000,TipTop,flow,other
+1254612,Product Analyst,Anywhere,150000,TipTop,github,other
+1402149,Lead Data Analyst - Retirement Product Management,Anywhere,148238.5,Edward Jones,sql,programming
+1402149,Lead Data Analyst - Retirement Product Management,Anywhere,148238.5,Edward Jones,python,programming
+1402149,Lead Data Analyst - Retirement Product Management,Anywhere,148238.5,Edward Jones,nosql,programming
+1402149,Lead Data Analyst - Retirement Product Management,Anywhere,148238.5,Edward Jones,r,programming
+1402149,Lead Data Analyst - Retirement Product Management,Anywhere,148238.5,Edward Jones,sas,programming
+1402149,Lead Data Analyst - Retirement Product Management,Anywhere,148238.5,Edward Jones,vba,programming
+1402149,Lead Data Analyst - Retirement Product Management,Anywhere,148238.5,Edward Jones,db2,databases
+1402149,Lead Data Analyst - Retirement Product Management,Anywhere,148238.5,Edward Jones,oracle,cloud
+1402149,Lead Data Analyst - Retirement Product Management,Anywhere,148238.5,Edward Jones,hadoop,libraries
+1402149,Lead Data Analyst - Retirement Product Management,Anywhere,148238.5,Edward Jones,excel,analyst_tools
+1402149,Lead Data Analyst - Retirement Product Management,Anywhere,148238.5,Edward Jones,tableau,analyst_tools
+1402149,Lead Data Analyst - Retirement Product Management,Anywhere,148238.5,Edward Jones,sas,analyst_tools
+1402149,Lead Data Analyst - Retirement Product Management,Anywhere,148238.5,Edward Jones,microstrategy,analyst_tools
+1402149,Lead Data Analyst - Retirement Product Management,Anywhere,148238.5,Edward Jones,spss,analyst_tools
+1694004,Manager - Data Analyst,Anywhere,147285,EXL Service,sql,programming
+1694004,Manager - Data Analyst,Anywhere,147285,EXL Service,python,programming
+1694004,Manager - Data Analyst,Anywhere,147285,EXL Service,sas,programming
+1694004,Manager - Data Analyst,Anywhere,147285,EXL Service,t-sql,programming
+1694004,Manager - Data Analyst,Anywhere,147285,EXL Service,snowflake,cloud
+1694004,Manager - Data Analyst,Anywhere,147285,EXL Service,hadoop,libraries
+1694004,Manager - Data Analyst,Anywhere,147285,EXL Service,excel,analyst_tools
+1694004,Manager - Data Analyst,Anywhere,147285,EXL Service,sas,analyst_tools
+1694004,Manager - Data Analyst,Anywhere,147285,EXL Service,ssis,analyst_tools
+479485,Data Analyst,Anywhere,145000,Level,sql,programming
+479485,Data Analyst,Anywhere,145000,Level,python,programming
+479485,Data Analyst,Anywhere,145000,Level,r,programming
+479485,Data Analyst,Anywhere,145000,Level,golang,programming
+479485,Data Analyst,Anywhere,145000,Level,elasticsearch,databases
+479485,Data Analyst,Anywhere,145000,Level,aws,cloud
+479485,Data Analyst,Anywhere,145000,Level,bigquery,cloud
+479485,Data Analyst,Anywhere,145000,Level,gcp,cloud
+479485,Data Analyst,Anywhere,145000,Level,pandas,libraries
+479485,Data Analyst,Anywhere,145000,Level,scikit-learn,libraries
+479485,Data Analyst,Anywhere,145000,Level,looker,analyst_tools
+479485,Data Analyst,Anywhere,145000,Level,kubernetes,other
+1329162,Data Analyst - up to 160K+,Anywhere,145000,Hire With Jarvis,sql,programming
+1329162,Data Analyst - up to 160K+,Anywhere,145000,Hire With Jarvis,excel,analyst_tools
+1329162,Data Analyst - up to 160K+,Anywhere,145000,Hire With Jarvis,tableau,analyst_tools
+1329162,Data Analyst - up to 160K+,Anywhere,145000,Hire With Jarvis,power bi,analyst_tools
+405581,Data Analyst,Anywhere,145000,CyberCoders,python,programming
+405581,Data Analyst,Anywhere,145000,CyberCoders,java,programming
+405581,Data Analyst,Anywhere,145000,CyberCoders,r,programming
+405581,Data Analyst,Anywhere,145000,CyberCoders,javascript,programming
+405581,Data Analyst,Anywhere,145000,CyberCoders,c++,programming
+405581,Data Analyst,Anywhere,145000,CyberCoders,tableau,analyst_tools
+405581,Data Analyst,Anywhere,145000,CyberCoders,power bi,analyst_tools
+405581,Data Analyst,Anywhere,145000,CyberCoders,qlik,analyst_tools
+712558,Data Scientist Analyst,Anywhere,145000,ALTA IT Services,sql,programming
+712558,Data Scientist Analyst,Anywhere,145000,ALTA IT Services,python,programming
+712558,Data Scientist Analyst,Anywhere,145000,ALTA IT Services,r,programming
+712558,Data Scientist Analyst,Anywhere,145000,ALTA IT Services,sas,programming
+712558,Data Scientist Analyst,Anywhere,145000,ALTA IT Services,excel,analyst_tools
+712558,Data Scientist Analyst,Anywhere,145000,ALTA IT Services,tableau,analyst_tools
+712558,Data Scientist Analyst,Anywhere,145000,ALTA IT Services,power bi,analyst_tools
+712558,Data Scientist Analyst,Anywhere,145000,ALTA IT Services,sas,analyst_tools
+1084354,"Software Engineer, Platform Data Science (Remote)",Anywhere,140500,Terray Therapeutics,sql,programming
+1084354,"Software Engineer, Platform Data Science (Remote)",Anywhere,140500,Terray Therapeutics,python,programming
+1084354,"Software Engineer, Platform Data Science (Remote)",Anywhere,140500,Terray Therapeutics,mysql,databases
+1084354,"Software Engineer, Platform Data Science (Remote)",Anywhere,140500,Terray Therapeutics,aws,cloud
+1084354,"Software Engineer, Platform Data Science (Remote)",Anywhere,140500,Terray Therapeutics,pandas,libraries
+1084354,"Software Engineer, Platform Data Science (Remote)",Anywhere,140500,Terray Therapeutics,numpy,libraries
+1084354,"Software Engineer, Platform Data Science (Remote)",Anywhere,140500,Terray Therapeutics,airflow,libraries
+1084354,"Software Engineer, Platform Data Science (Remote)",Anywhere,140500,Terray Therapeutics,django,webframeworks
+1084354,"Software Engineer, Platform Data Science (Remote)",Anywhere,140500,Terray Therapeutics,fastapi,webframeworks
+1090975,Data Analyst,Anywhere,140500,Uber,sql,programming
+1090975,Data Analyst,Anywhere,140500,Uber,python,programming
+1090975,Data Analyst,Anywhere,140500,Uber,r,programming
+1090975,Data Analyst,Anywhere,140500,Uber,swift,programming
+1090975,Data Analyst,Anywhere,140500,Uber,excel,analyst_tools
+1090975,Data Analyst,Anywhere,140500,Uber,tableau,analyst_tools
+1090975,Data Analyst,Anywhere,140500,Uber,looker,analyst_tools
+149006,People Data Analyst,Anywhere,140500,Insight Global,sql,programming
+149006,People Data Analyst,Anywhere,140500,Insight Global,python,programming
+149006,People Data Analyst,Anywhere,140500,Insight Global,oracle,cloud
+1049000,Sr. Data Analyst,Anywhere,140000,Sisense,sql,programming
+1049000,Sr. Data Analyst,Anywhere,140000,Sisense,python,programming
+1049000,Sr. Data Analyst,Anywhere,140000,Sisense,r,programming
+1049000,Sr. Data Analyst,Anywhere,140000,Sisense,snowflake,cloud
+762220,Qlik/Power BI Data Analyst | $130K-$150K + ESOP |100% USA-Remote,Anywhere,140000,IT Pros,bigquery,cloud
+762220,Qlik/Power BI Data Analyst | $130K-$150K + ESOP |100% USA-Remote,Anywhere,140000,IT Pros,power bi,analyst_tools
+762220,Qlik/Power BI Data Analyst | $130K-$150K + ESOP |100% USA-Remote,Anywhere,140000,IT Pros,qlik,analyst_tools
+887258,Founding fullstack engineer,Anywhere,140000,Livedocs,sql,programming
+887258,Founding fullstack engineer,Anywhere,140000,Livedocs,typescript,programming
+887258,Founding fullstack engineer,Anywhere,140000,Livedocs,gcp,cloud
+887258,Founding fullstack engineer,Anywhere,140000,Livedocs,graphql,libraries
+887258,Founding fullstack engineer,Anywhere,140000,Livedocs,node,webframeworks
+1207704,Performance Analyst,Anywhere,140000,Kforce Technology Staffing,excel,analyst_tools
+208403,Data Manager,Anywhere,140000,Insight Global,nosql,programming
+143493,Founding fullstack engineer,Anywhere,140000,Livedocs,sql,programming
+143493,Founding fullstack engineer,Anywhere,140000,Livedocs,typescript,programming
+143493,Founding fullstack engineer,Anywhere,140000,Livedocs,gcp,cloud
+143493,Founding fullstack engineer,Anywhere,140000,Livedocs,node,webframeworks
+1300702,Data Analyst (Product Data Analyst),Anywhere,139000,Revolut,sql,programming
+1300702,Data Analyst (Product Data Analyst),Anywhere,139000,Revolut,python,programming
+1300702,Data Analyst (Product Data Analyst),Anywhere,139000,Revolut,scala,programming
+1300702,Data Analyst (Product Data Analyst),Anywhere,139000,Revolut,java,programming
+1300702,Data Analyst (Product Data Analyst),Anywhere,139000,Revolut,c++,programming
+388392,Digital Marketing Data Analyst (Hybrid),Anywhere,138640,United Services Automobile Association,sql,programming
+388392,Digital Marketing Data Analyst (Hybrid),Anywhere,138640,United Services Automobile Association,nosql,programming
+388392,Digital Marketing Data Analyst (Hybrid),Anywhere,138640,United Services Automobile Association,javascript,programming
+388392,Digital Marketing Data Analyst (Hybrid),Anywhere,138640,United Services Automobile Association,snowflake,cloud
+388392,Digital Marketing Data Analyst (Hybrid),Anywhere,138640,United Services Automobile Association,hadoop,libraries
+388392,Digital Marketing Data Analyst (Hybrid),Anywhere,138640,United Services Automobile Association,phoenix,webframeworks
+388392,Digital Marketing Data Analyst (Hybrid),Anywhere,138640,United Services Automobile Association,tableau,analyst_tools
+1482852,Data Analyst,Anywhere,138500,Overmind,sql,programming
+1482852,Data Analyst,Anywhere,138500,Overmind,python,programming
+596116,Senior Backend Engineer,Anywhere,138000,CorgiAI,python,programming
+596116,Senior Backend Engineer,Anywhere,138000,CorgiAI,redis,databases
+596116,Senior Backend Engineer,Anywhere,138000,CorgiAI,mysql,databases
+596116,Senior Backend Engineer,Anywhere,138000,CorgiAI,postgresql,databases
+596116,Senior Backend Engineer,Anywhere,138000,CorgiAI,azure,cloud
+596116,Senior Backend Engineer,Anywhere,138000,CorgiAI,aws,cloud
+596116,Senior Backend Engineer,Anywhere,138000,CorgiAI,snowflake,cloud
+596116,Senior Backend Engineer,Anywhere,138000,CorgiAI,gcp,cloud
+596116,Senior Backend Engineer,Anywhere,138000,CorgiAI,git,other
+350382,Lead I - Power BI Data Analyst,Anywhere,138000,Get It Recruit - Information Technology,sql,programming
+350382,Lead I - Power BI Data Analyst,Anywhere,138000,Get It Recruit - Information Technology,nosql,programming
+350382,Lead I - Power BI Data Analyst,Anywhere,138000,Get It Recruit - Information Technology,sql server,databases
+350382,Lead I - Power BI Data Analyst,Anywhere,138000,Get It Recruit - Information Technology,azure,cloud
+350382,Lead I - Power BI Data Analyst,Anywhere,138000,Get It Recruit - Information Technology,power bi,analyst_tools
+350382,Lead I - Power BI Data Analyst,Anywhere,138000,Get It Recruit - Information Technology,dax,analyst_tools
+835092,Secret Data Analyst Remote / Telecommute Jobs,Anywhere,137500,"Insight Global, Inc.",sharepoint,analyst_tools
+740073,Data Analytics Manager,Anywhere,137000,WhiteCrow,excel,analyst_tools
+740073,Data Analytics Manager,Anywhere,137000,WhiteCrow,powerpoint,analyst_tools
+1326467,Data Analyst,Anywhere,135000,EPIC Brokers,excel,analyst_tools
+513988,Data Analyst - Advanced Analytics,Anywhere,135000,Get It Recruit - Hospitality,sql,programming
+513988,Data Analyst - Advanced Analytics,Anywhere,135000,Get It Recruit - Hospitality,python,programming
+513988,Data Analyst - Advanced Analytics,Anywhere,135000,Get It Recruit - Hospitality,r,programming
+513988,Data Analyst - Advanced Analytics,Anywhere,135000,Get It Recruit - Hospitality,sas,programming
+513988,Data Analyst - Advanced Analytics,Anywhere,135000,Get It Recruit - Hospitality,sas,analyst_tools
+75429,CX LEAD SOFTWARE ENGINEER - ACTUARIAL - LEAD DATA ENGINEER  ...,Anywhere,135000,Robert Half,sql,programming
+75429,CX LEAD SOFTWARE ENGINEER - ACTUARIAL - LEAD DATA ENGINEER  ...,Anywhere,135000,Robert Half,python,programming
+1811129,Backend Engineer,Anywhere,135000,PropelAuth,python,programming
+1811129,Backend Engineer,Anywhere,135000,PropelAuth,go,programming
+1811129,Backend Engineer,Anywhere,135000,PropelAuth,rust,programming
+1811129,Backend Engineer,Anywhere,135000,PropelAuth,aws,cloud
+1811129,Backend Engineer,Anywhere,135000,PropelAuth,pulumi,other
+1811129,Backend Engineer,Anywhere,135000,PropelAuth,slack,sync
+777802,Lead Data Analyst / SQL Developer,Anywhere,135000,Robert Half,sql,programming
+777802,Lead Data Analyst / SQL Developer,Anywhere,135000,Robert Half,python,programming
+777802,Lead Data Analyst / SQL Developer,Anywhere,135000,Robert Half,go,programming
+777802,Lead Data Analyst / SQL Developer,Anywhere,135000,Robert Half,c,programming
+777802,Lead Data Analyst / SQL Developer,Anywhere,135000,Robert Half,sql server,databases
+479965,Data Analyst,Anywhere,135000,InvestM Technology LLC,sql,programming
+479965,Data Analyst,Anywhere,135000,InvestM Technology LLC,excel,analyst_tools
+479965,Data Analyst,Anywhere,135000,InvestM Technology LLC,power bi,analyst_tools
+1065710,"Software Engineer, Tools (React)",Anywhere,133000,MongoDB,python,programming
+1065710,"Software Engineer, Tools (React)",Anywhere,133000,MongoDB,typescript,programming
+1065710,"Software Engineer, Tools (React)",Anywhere,133000,MongoDB,mongodb,programming
+1065710,"Software Engineer, Tools (React)",Anywhere,133000,MongoDB,mongodb,databases
+1065710,"Software Engineer, Tools (React)",Anywhere,133000,MongoDB,react,libraries
+1065710,"Software Engineer, Tools (React)",Anywhere,133000,MongoDB,express,webframeworks
+1065710,"Software Engineer, Tools (React)",Anywhere,133000,MongoDB,node.js,webframeworks
+1065710,"Software Engineer, Tools (React)",Anywhere,133000,MongoDB,node,webframeworks
+1065710,"Software Engineer, Tools (React)",Anywhere,133000,MongoDB,next.js,webframeworks
+1065710,"Software Engineer, Tools (React)",Anywhere,133000,MongoDB,fastify,webframeworks
+262837,Quantitative Scientist (Remote),Anywhere,132500,Osmind,sql,programming
+262837,Quantitative Scientist (Remote),Anywhere,132500,Osmind,python,programming
+262837,Quantitative Scientist (Remote),Anywhere,132500,Osmind,r,programming
+311931,Data Analyst III,Anywhere,132500,SoftDev Incorporated,sql,programming
+311931,Data Analyst III,Anywhere,132500,SoftDev Incorporated,python,programming
+311931,Data Analyst III,Anywhere,132500,SoftDev Incorporated,r,programming
+311931,Data Analyst III,Anywhere,132500,SoftDev Incorporated,sheets,analyst_tools
+990420,Data Insights Analyst III,Anywhere,132500,Get It Recruit - Information Technology,sql,programming
+990420,Data Insights Analyst III,Anywhere,132500,Get It Recruit - Information Technology,python,programming
+990420,Data Insights Analyst III,Anywhere,132500,Get It Recruit - Information Technology,r,programming
+990420,Data Insights Analyst III,Anywhere,132500,Get It Recruit - Information Technology,tableau,analyst_tools
+1464217,Sr. Software Engineer (API and Integrations),Anywhere,132500,Robert Half,sql,programming
+1464217,Sr. Software Engineer (API and Integrations),Anywhere,132500,Robert Half,c#,programming
+1464217,Sr. Software Engineer (API and Integrations),Anywhere,132500,Robert Half,azure,cloud
+1576609,Staff Software Engineer - Data Science,Anywhere,130000,Get It Recruit - Information Technology,sql,programming
+1576609,Staff Software Engineer - Data Science,Anywhere,130000,Get It Recruit - Information Technology,python,programming
+1576609,Staff Software Engineer - Data Science,Anywhere,130000,Get It Recruit - Information Technology,javascript,programming
+1576609,Staff Software Engineer - Data Science,Anywhere,130000,Get It Recruit - Information Technology,c#,programming
+605884,Power BI Developer,Anywhere,130000,Insight Global,sql,programming
+605884,Power BI Developer,Anywhere,130000,Insight Global,sql server,databases
+605884,Power BI Developer,Anywhere,130000,Insight Global,azure,cloud
+605884,Power BI Developer,Anywhere,130000,Insight Global,power bi,analyst_tools
+1209798,Data Analyst,Anywhere,130000,Doximity,sql,programming
+1209798,Data Analyst,Anywhere,130000,Doximity,python,programming
+1209798,Data Analyst,Anywhere,130000,Doximity,spark,libraries
+1209798,Data Analyst,Anywhere,130000,Doximity,pandas,libraries
+1209798,Data Analyst,Anywhere,130000,Doximity,numpy,libraries
+1209798,Data Analyst,Anywhere,130000,Doximity,unix,os
+1209798,Data Analyst,Anywhere,130000,Doximity,git,other
+1209798,Data Analyst,Anywhere,130000,Doximity,github,other
+92703,Sr. Data Analyst,Anywhere,130000,Launch Consulting Group,sql,programming
+92703,Sr. Data Analyst,Anywhere,130000,Launch Consulting Group,azure,cloud
+92703,Sr. Data Analyst,Anywhere,130000,Launch Consulting Group,aws,cloud
+92703,Sr. Data Analyst,Anywhere,130000,Launch Consulting Group,snowflake,cloud
+92703,Sr. Data Analyst,Anywhere,130000,Launch Consulting Group,excel,analyst_tools
+92703,Sr. Data Analyst,Anywhere,130000,Launch Consulting Group,tableau,analyst_tools
+92703,Sr. Data Analyst,Anywhere,130000,Launch Consulting Group,power bi,analyst_tools
+92703,Sr. Data Analyst,Anywhere,130000,Launch Consulting Group,dax,analyst_tools
+92703,Sr. Data Analyst,Anywhere,130000,Launch Consulting Group,visio,analyst_tools
+92703,Sr. Data Analyst,Anywhere,130000,Launch Consulting Group,flow,other
+92703,Sr. Data Analyst,Anywhere,130000,Launch Consulting Group,jira,async
+447569,Lead Data Analyst,Anywhere,130000,Kforce Technology Staffing,sql,programming
+447569,Lead Data Analyst,Anywhere,130000,Kforce Technology Staffing,python,programming
+447569,Lead Data Analyst,Anywhere,130000,Kforce Technology Staffing,r,programming
+447569,Lead Data Analyst,Anywhere,130000,Kforce Technology Staffing,databricks,cloud
+447569,Lead Data Analyst,Anywhere,130000,Kforce Technology Staffing,aws,cloud
+447569,Lead Data Analyst,Anywhere,130000,Kforce Technology Staffing,redshift,cloud
+447569,Lead Data Analyst,Anywhere,130000,Kforce Technology Staffing,snowflake,cloud
+447569,Lead Data Analyst,Anywhere,130000,Kforce Technology Staffing,tableau,analyst_tools
+1531276,System Data Analyst,Anywhere,130000,Alpha Silicon,sql,programming
+1531276,System Data Analyst,Anywhere,130000,Alpha Silicon,python,programming
+1531276,System Data Analyst,Anywhere,130000,Alpha Silicon,sheets,analyst_tools
+1531276,System Data Analyst,Anywhere,130000,Alpha Silicon,flow,other
+21451,Data Analyst must have telecom domain experince,Anywhere,130000,ApTask,sql,programming
+21451,Data Analyst must have telecom domain experince,Anywhere,130000,ApTask,python,programming
+21451,Data Analyst must have telecom domain experince,Anywhere,130000,ApTask,sheets,analyst_tools
+21451,Data Analyst must have telecom domain experince,Anywhere,130000,ApTask,flow,other
+1686779,Data Insights Manager,Anywhere,130000,Get It Recruit - Information Technology,sql,programming
+1686779,Data Insights Manager,Anywhere,130000,Get It Recruit - Information Technology,python,programming
+1686779,Data Insights Manager,Anywhere,130000,Get It Recruit - Information Technology,r,programming
+1686779,Data Insights Manager,Anywhere,130000,Get It Recruit - Information Technology,sql server,databases
+1686779,Data Insights Manager,Anywhere,130000,Get It Recruit - Information Technology,excel,analyst_tools
+1686779,Data Insights Manager,Anywhere,130000,Get It Recruit - Information Technology,tableau,analyst_tools
+1686779,Data Insights Manager,Anywhere,130000,Get It Recruit - Information Technology,power bi,analyst_tools
+1566076,"Manager, Data Analytics (Bioscience) - Remote",Anywhere,129000,Lonza,python,programming
+1566076,"Manager, Data Analytics (Bioscience) - Remote",Anywhere,129000,Lonza,power bi,analyst_tools
+1791785,Marketing Data Analyst (Remote),Anywhere,127000,Cash App,sql,programming
+1791785,Marketing Data Analyst (Remote),Anywhere,127000,Cash App,go,programming
+1791785,Marketing Data Analyst (Remote),Anywhere,127000,Cash App,c,programming
+1791785,Marketing Data Analyst (Remote),Anywhere,127000,Cash App,twilio,sync
+1148444,Data Analyst,Anywhere,127000,Acorns,outlook,analyst_tools
